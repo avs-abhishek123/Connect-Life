@@ -1,4 +1,4 @@
-##**Brief about the project**
+## **Brief about the project**
 > 
 > **ConnectLife** built for about **1 month ago**, without a
 > clean code or using a modern technologies and with no OOP concept or specific design
