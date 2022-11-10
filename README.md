@@ -8,8 +8,30 @@
 > secure, fully featured, and easy to develop and use**.. with the use of the modern technologies, frameworks, and concepts that make the project more reusable ...
 >  **but**!! I don't really started building it yet, that because of the time and my work .. but as soon as I can I'll start building it and till that moment! I promise it will be great :)
 > 
-> Thanks,
-> Abhishek.
+
+1. Responsive.
+2. Bilingual Feature [English and Arabic].
+3. Real-time notification.
+4. Messaging.
+5. Notepad for each user.
+6. Create a post with title and image upload facility.
+7. Share the post on your timeline.
+8. Support Box feature for feedback.
+9. Report a problem to admin.
+10. Multiple admin features.
+11. Dashboard for admin with all details.
+12. Admin can verify the users.
+13. Admin can edit the details of the users.
+14. Deletion of Account, post and comments.
+15. Upload profile picture and cover photo.
+16. Functional Search Bar.
+17. Profile Completion Feature.
+18. Change of Settings.
+19. Search bar features based on hashtags.
+20. Hometown and workplace based search.
+21. ChatBot feature
+22. Contact details
+23. About project features
 
 # ConnectLife Poster
 <img src="https://github.com/avs-abhishek123/Connect-Life/blob/master/imgs/16BCE0366%20review_3%20poster-converted-page-001.jpg" width="100%" height="80%">
