@@ -1,13 +1,6 @@
 ## **Brief about the project**
-> 
-> **ConnectLife** built for about **1 month ago**, without a
-> clean code or using a modern technologies and with no OOP concept or specific design
-> pattern that makes the code understandable and reusable by other developers, that's why you may face a lot of bugs or issues with a specific feature in the project! because of the messive code that it's written with.
-> 
-> I was thinking about rebuild a new one with a new name, to be **fast,
-> secure, fully featured, and easy to develop and use**.. with the use of the modern technologies, frameworks, and concepts that make the project more reusable ...
->  **but**!! I don't really started building it yet, that because of the time and my work .. but as soon as I can I'll start building it and till that moment! I promise it will be great :)
 
+Connect Life is a social media web application system designed to help people connect virtually within VIT with full administrative control for the administrators. It is designed and implemented in the real world with user-friendliness and calculated marketing and engineering-standard requirements in mind. The project has several deliverables and milestones that has been be achieved, including research work, website multiple blueprint generation, data scraping, data collection and analysis of tradeoffs, hard coding and developing codebase for home page, configuration of database functionalities, sign up and log in, project development, deployment, testing, debugging, feature enhancement.
 
 #### FEATURES
 
