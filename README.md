@@ -7,7 +7,9 @@
 > I was thinking about rebuild a new one with a new name, to be **fast,
 > secure, fully featured, and easy to develop and use**.. with the use of the modern technologies, frameworks, and concepts that make the project more reusable ...
 >  **but**!! I don't really started building it yet, that because of the time and my work .. but as soon as I can I'll start building it and till that moment! I promise it will be great :)
-> 
+
+
+#### FEATURES
 
 1. Responsive.
 2. Bilingual Feature [English and Arabic].
@@ -32,6 +34,19 @@
 21. ChatBot feature
 22. Contact details
 23. About project features
+
+#### SKILLS & TECHNOLOGIES- 
+
+- HTML 5.2, 
+- CSS 3.0, 
+- Bootstrap 4.0, 
+- JavaScript 1.8.5, 
+- React JS 17.0.1, 
+- PHP 7.3.17, 
+- Ajax (for user status retrieval), 
+- SQL Server 2019, 
+- XAMPP 7.4.5, 
+- phpMyAdmin 5.0.0.
 
 # ConnectLife Poster
 <img src="https://github.com/avs-abhishek123/Connect-Life/blob/master/imgs/16BCE0366%20review_3%20poster-converted-page-001.jpg" width="100%" height="80%">
