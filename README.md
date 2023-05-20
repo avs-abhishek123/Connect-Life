@@ -60,3 +60,8 @@ Create your own social network for free with ConnectLife social network, easy to
 </ol>
 <hr>
 
+# Contributors:
+| Name | GitHub Profile | 
+|---|---|
+| Allena Venkata Sai Abhishek | [avs-abhishek123](https://github.com/avs-abhishek123) |
+| Allena Venkata Sri Reshmi | [reshmi912](https://github.com/reshmi912/Connect-Life)
